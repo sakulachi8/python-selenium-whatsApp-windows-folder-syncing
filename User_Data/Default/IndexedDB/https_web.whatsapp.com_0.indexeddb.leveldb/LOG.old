@@ -1,6 +1,0 @@
-2020/04/02-12:11:42.958 1ae2 Reusing MANIFEST /home/triplek/Documents/PythonDjango/WhatsAppBot/User_Data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/04/02-12:11:42.959 1ae2 Recovering log #3
-2020/04/02-12:11:43.051 1ae2 Reusing old log /home/triplek/Documents/PythonDjango/WhatsAppBot/User_Data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000003.log 
-2020/04/02-12:11:53.726 1b69 Level-0 table #5: started
-2020/04/02-12:11:53.770 1b69 Level-0 table #5: 1154016 bytes OK
-2020/04/02-12:11:53.776 1b69 Delete type=0 #3
